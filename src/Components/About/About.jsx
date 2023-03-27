@@ -1,19 +1,20 @@
 import React from 'react'
 import './About.css'
 import me3 from '../../assets/me3.png'
-import {FaAward, FaUser} from 'react-icons/fa'
+import {FaAward} from 'react-icons/fa'
 import {FiUsers} from 'react-icons/fi'
 import {VscFolderLibrary} from 'react-icons/vsc'
 
 const About = () => {
   return (
-    <div id='about' className='about'>
+    <section id='about'>
       <h5>Get To Know</h5>
       <h2>About Me</h2>
+
       <div className='container about__container'>
         <div className='about__me'>
           <div className='about__me-image'>
-            <img src={me3} alt=""/>
+            <img src={me3} alt="about image"/>
           </div>
         </div>
 
@@ -22,12 +23,12 @@ const About = () => {
             <article className='about__card'>
               <FaAward className='about__icon'/>
               <h5>Experience</h5>
-              <small>1 Year</small>
+              <small>1 Year Working</small>
             </article>
             <article className='about__card'>
               <FiUsers className='about__icon'/>
-              <h5>Clients</h5>
-              <small>200 + Worldwide</small>
+              <h5>Companies</h5>
+              <small>2</small>
             </article>
             <article className='about__card'>
               <VscFolderLibrary className='about__icon'/>
@@ -36,15 +37,14 @@ const About = () => {
             </article>
           </div>
           <p>
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. 
-            Tempora, esse rerum voluptates quo natus quidem incidunt ab
-            odio laborum similique inventore, 
-            possimus autem corporis eaque sapiente, eum consectetur sequi magni.
+          Software Developer with a passion for developing innovative programs. Looking forward for a challenging
+          environment to work for individual development. Solution-driven web developer adept at contributing to 
+          highly collaborative work environment and finding solutions.
           </p>
           <a href='#contact' className='btn btn-primary'>get In Touch</a>
         </div>
       </div>
-    </div>
+    </section>
   )
 }
 
