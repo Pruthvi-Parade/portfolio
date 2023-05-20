@@ -30,8 +30,8 @@ const data = [
   {
     id: 4,
     image: Img4,
-    title: 'Training and Placement Cell',
-    github: 'https://github.com/Pruthvi-Parade/Training-Placement-cell',
+    title: 'Face Vault',
+    github: 'https://github.com/Pruthvi-Parade/face_vault',
     demo: 'https://dribble.com'
   }
 ]
