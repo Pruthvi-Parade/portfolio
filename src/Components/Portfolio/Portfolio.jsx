@@ -2,7 +2,7 @@ import React from 'react'
 import './Portfolio.css'
 import Img1 from '../../assets/SS1.png'
 import Img2 from '../../assets/SS2.png'
-import Img3 from '../../assets/SS3.png'
+import Img3 from '../../assets/SS3.jpg'
 import Img4 from '../../assets/SS4.png'
 
 const data = [
@@ -23,15 +23,15 @@ const data = [
   {
     id: 3,
     image: Img3,
-    title: 'Training and Placement Cell',
-    github: 'https://github.com/Pruthvi-Parade/Training-Placement-cell',
+    title: 'Face Vault',
+    github: 'https://github.com/Pruthvi-Parade/face_vault',
     demo: 'https://dribble.com'
   },
   {
     id: 4,
     image: Img4,
-    title: 'Face Vault',
-    github: 'https://github.com/Pruthvi-Parade/face_vault',
+    title: 'Training and Placement Cell',
+    github: 'https://github.com/Pruthvi-Parade/Training-Placement-cell',
     demo: 'https://dribble.com'
   }
 ]
@@ -47,7 +47,7 @@ const Portfolio = () => {
             return(
               <article key={item.id}className='portfolio__item'>
                 <div className='portfolio__item-image'>
-                  <img src={item.image} alt=''/>
+                  <img src={item.image} height="400"  alt=''/>
                 </div>
                 <h3>{item.title}</h3>
                 <div className='portfolio__item-cta'>
