@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.5e388535.css",
-    "main.js": "/portfolio/static/js/main.c3db7b5d.js",
+    "main.js": "/portfolio/static/js/main.d7bb50d6.js",
     "static/media/SS1.png": "/portfolio/static/media/SS1.94933006bd248e137e95.png",
     "static/media/me.png": "/portfolio/static/media/me.d89f1aa1354be219bde7.png",
     "static/media/SS2.png": "/portfolio/static/media/SS2.b3c1ee6483f0697669cd.png",
-    "static/media/SS3.png": "/portfolio/static/media/SS3.32c49f1e5c48ec9f6465.png",
     "static/media/SS4.png": "/portfolio/static/media/SS4.4cd4172643629ca792ef.png",
     "static/media/me3.png": "/portfolio/static/media/me3.0a13ac57b169c6e1039a.png",
     "static/media/Pruthvi_Parade_Resume.pdf": "/portfolio/static/media/Pruthvi_Parade_Resume.87700fb0b38f2e6f9698.pdf",
+    "static/media/SS3.jpg": "/portfolio/static/media/SS3.63a7c3b4a82c7766edfc.jpg",
     "index.html": "/portfolio/index.html",
     "main.5e388535.css.map": "/portfolio/static/css/main.5e388535.css.map",
-    "main.c3db7b5d.js.map": "/portfolio/static/js/main.c3db7b5d.js.map"
+    "main.d7bb50d6.js.map": "/portfolio/static/js/main.d7bb50d6.js.map"
   },
   "entrypoints": [
     "static/css/main.5e388535.css",
-    "static/js/main.c3db7b5d.js"
+    "static/js/main.d7bb50d6.js"
   ]
 }
