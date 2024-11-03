@@ -33,7 +33,7 @@ const GithubPage = ({ repos, user }) => {
         </div>
       </div>
       <div className={styles.container}>
-        {repos.map((repo) => (
+        {Array.isArray(repos) && repos.map((repo) => (
           <RepoCard key={repo.id} repo={repo} />
         ))}
       </div>
@@ -69,9 +69,15 @@ export async function getStaticProps() {
     }
   );
   let repos = await repoRes.json();
-  repos = repos
-    .sort((a, b) => b.stargazers_count - a.stargazers_count)
-    .slice(0, 6);
+
+  // Check if repos is an array before sorting
+  if (Array.isArray(repos)) {
+    repos = repos
+      .sort((a, b) => b.stargazers_count - a.stargazers_count)
+      .slice(0, 6);
+  } else {
+    repos = []; // Fallback to an empty array if repos is not an array
+  }
 
   return {
     props: { title: 'GitHub', repos, user },
