@@ -1,0 +1,191 @@
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400&display=swap");
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Tags */
+.React_JS {
+  border: 0.1rem solid rgb(97, 218, 251);
+}
+.React_JS:hover {
+  background: rgba(97, 218, 251, 0.25);
+}
+
+.FastAPI {
+  border: 0.1rem solid rgb(131, 205, 41);
+}
+.FastAPI:hover {
+  background: rgba(131, 205, 41, 0.25);
+}
+
+.Mongodb {
+  border: 0.1rem solid rgb(67, 153, 52);
+}
+.Mongodb:hover {
+  background: rgba(67, 153, 52, 0.25);
+}
+
+.Redux {
+  border: 0.1rem solid rgb(118, 74, 188);
+}
+.Redux:hover {
+  background: rgba(118, 74, 188, 0.25);
+}
+
+.Stripe {
+  border: 0.1rem solid rgb(82, 143, 240);
+}
+.Stripe:hover {
+  background: rgba(82, 143, 240, 0.25);
+}
+
+.Postgres {
+  border: 0.1rem solid rgb(25, 118, 210);
+}
+.Postgres:hover {
+  background: rgba(25, 118, 210, 0.25);
+}
+
+.Docker {
+  border: 0.1rem solid rgb(10, 103, 166);
+}
+.Docker:hover {
+  background: rgb(0, 209, 178, 0.25);
+}
+
+.Python {
+  border: 2px solid rgb(0, 112, 243);
+}
+.Python:hover {
+  background: rgba(0, 112, 243, 0.25);
+}
+
+.Ant-D {
+  border: 2px solid rgb(6, 30, 212);
+}
+.Ant-D:hover {
+  background: rgba(4, 44, 152, 0.25);
+}
+
+.Node {
+  border: 2px solid rgb(94, 197, 25);
+}
+.Node:hover {
+  background: rgba(0, 255, 13, 0.25);
+}
+
+.OpenCV {
+  border: 2px solid rgb(255, 0, 0);
+}
+.OpenCV:hover {
+  background: rgba(255, 0, 0, 0.25);
+}
+
+.Tkinter {
+  border: 2px solid rgb(0, 247, 255);
+}
+.Tkinter:hover {
+  background: rgba(8, 126, 181, 0.25);
+}
+
+.CSS {
+  border: 2px solid rgb(0, 247, 255);
+}
+.CSS:hover {
+  background: rgba(8, 126, 181, 0.25);
+}
+
+.XML {
+  border: 2px solid rgb(153, 156, 21);
+}
+.XML:hover {
+  background: rgba(162, 131, 4, 0.25);
+}
+
+.HTML {
+  border: 2px solid rgb(255, 170, 0);
+}
+.HTML:hover {
+  background: rgba(255, 204, 0, 0.25);
+}
+
+.SQL {
+  border: 2px solid rgb(255, 170, 0);
+}
+.SQL:hover {
+  background: rgba(255, 204, 0, 0.25);
+}
+.Javascript {
+  border: 2px solid rgb(255, 255, 0);
+}
+.Javascript:hover {
+  background: rgba(255, 251, 0, 0.25);
+}
+
+.Php {
+  border: 0.1rem solid rgb(118, 74, 188);
+}
+.Php:hover {
+  background: rgba(118, 74, 188, 0.25);
+}
+
+.Apache {
+  border: 0.1rem solid rgb(119, 19, 48);
+}
+.Apache:hover {
+  background: rgba(118, 74, 188, 0.25);
+}
+
+.NextJS {
+  border: 0.1rem solid rgb(166,166,166);
+}
+.NextJS:hover {
+  background-color: rgba(166, 166, 166, 0.1); /* Very faint gray hover color */
+}
+
+.Shadcn {
+  border: 0.1rem solid rgb(82, 143, 240);
+}
+.Shadcn:hover {
+  background: rgba(82, 143, 240, 0.25);
+}
+
+.AWS {
+  border: 2px solid rgb(255, 170, 0);
+}
+.AWS:hover {
+  background: rgba(255, 204, 0, 0.25);
+}
+
+.Firebase {
+  border: 2px solid rgb(255, 174, 66);
+}
+.Firebase:hover {
+  background: rgba(255, 174, 66, 0.1); /* Very faint, 10% opacity */
+}
+
+.Langchain{
+  border: 2px solid rgb(94, 197, 25);
+}
+.Langchain:hover {
+  background: rgba(0, 255, 13, 0.25);
+}
+
+.VertexAI{
+  border: 2px solid rgb(0 0 139);
+}
+.VertexAI:hover {
+  background: rgba(4, 44, 152, 0.25);
+}
+
+.VercelAI_SDK{
+  border: 0.1rem solid rgb(118, 74, 188);
+}
+.VercelAI_SDK:hover {
+  background: rgba(118, 74, 188, 0.25);
+}

@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "DocXter",
+    "image": "/RFID_Dashboard.png",
+    "description": "A smart AI Documnet analyser",
+    "tags": ["NextJS","Shadcn", "AWS", "Firebase", "VercelAI_SDK", "Langchain","VertexAI"],
+    "source_code": "https://chat.docxter.app/"
+  },
+  {
+    "id": 2,
+    "name": "Unified Logistics",
+    "image": "/Unified_Logistics.png",
+    "description": "A platform for consumer and vendor to track their shipments",
+    "tags": ["React_JS", "Node", "Mongodb", "Redux", "Stripe", "Ant-D"],
+    "source_code": "https://github.com/Pruthvi-Parade/unified-logistics"
+  },
+  {
+    "id": 3,
+    "name": "Face Vault",
+    "image": "/Face_Recognition.jpg",
+    "description": "A software to manage Attendance by facial recognition",
+    "tags": ["Python", "OpenCV", "Tkinter", "Mongodb", "XML"],
+    "source_code": "https://github.com/Pruthvi-Parade/face_vault"
+  },
+  {
+    "id": 4,
+    "name": "Training and Placement Cell",
+    "image": "/Training_and_placement_cell.png",
+    "description": "A platform for students and teachers to manage placement and training activities",
+    "tags": ["HTML", "CSS", "Javascript", "SQL", "Php", "Apache"],
+    "source_code": "https://github.com/Pruthvi-Parade/Training-Placement-cell"
+  }
+]
