@@ -2,6 +2,11 @@ import ArticleCard from '../components/ArticleCard';
 import styles from '../styles/ArticlesPage.module.css';
 
 const ArticlesPage = ({ articles }) => {
+  // Check if articles is an array before mapping
+  if (!Array.isArray(articles)) {
+    return <p>No articles found.</p>;
+  }
+
   return (
     <>
       <h3>
@@ -36,8 +41,9 @@ export async function getStaticProps() {
 
   const data = await res.json();
 
+  // Ensure data is an array before returning
   return {
-    props: { title: 'Articles', articles: data },
+    props: { title: 'Articles', articles: Array.isArray(data) ? data : [] },
     revalidate: 60,
   };
 }
