@@ -29,7 +29,7 @@ const Bottombar = () => {
       <div className={styles.container}>
         <div className={styles.section}>
           <NextjsIcon className={styles.icon} />
-          <p>Powered by Next.js</p>
+          <p>Built with Next.js</p>
         </div>
         <div className={styles.section}>
           <CheckIcon className={styles.icon} />
