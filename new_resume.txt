@@ -1,0 +1,95 @@
+Pruthvi Parade
+Software Engineer
+Innovative software engineer with 2.5+ years of experience specializing in AI-driven applications and full-stack development. Proven expertise in developing RAG systems, Agentic AI workflows, and LLM integrations. Passionate about creating scalable AI solutions that deliver tangible business value through intelligent automation.
+parade.pruthvi@gmail.com 9834681705
+Pune, India pruthvi-parade.vercel.app/
+linkedin.com/in/pruthvi-parade-2040b0248 github.com/Pruthvi-Parade
+WORK EXPERIENCE
+Gen-AI Developer
+Cloudredux
+11/2023 - Present Pune, India
+Projects/Achievements
+DocXter: Architected an enterprise-grade RAG system with real-time
+document interaction using NextJS, Vercel AI SDK, FastAPI and
+Weaviate VectorDB, implemented agentic workflows via LangGraph
+for autonomous task execution.
+Redesigned the knowledge base architecture and data pipeline,
+resulting in a 70% improvement in document loading speeds through
+optimized database structuring and retrieval algorithms, implementing
+strategic caching mechanisms to ensure optimal performance at scale.
+SEO AI: Built an intelligent content generation app using LangChain
+for orchestrating web scraping, LLM interactions, and tool calling,
+Automated extraction and analysis of top-ranked articles from keyword
+specifications using Pandas, Integrated tool calls for retrieving and
+writing documents in Google Drive via Google Cloud Console resulting
+80% reduction in time to generate optimized article by content team.
+EduAssist: Engineered an intelligent content processing system using
+PyMuPDF and Layout Parser for advanced PDF data extraction and
+vectorization, while implementing BERTopic for automated topic
+modeling to generate structured learning modules for an educational
+platform.
+Research Trainee
+Sinhgad Institute of Technology
+01/2023 - 05/2023 Pune, India
+Projects/Achievements
+Enhanced user experience by designing an intelligent prediction system,
+incorporating caching mechanisms that improved suggestion accuracy
+and reduced response time from 3s to 500ms.
+Analyzed text files written in Sanskrit detecting mistakes in grammar,
+optimized algorithms for faster reading and spell check, smart
+suggestion/prediction for better user understanding.
+Software Engineer Intern
+Integrated Active Monitoring
+08/2022 - 12/2022 Pune, India
+Projects/Achievements
+CMS Portal: CMS is a real-time alert monitoring system that allows
+multiple operators to monitor remote locations for security purposes.
+Spearheaded the modernization of the CMS platform by upgrading the
+frontend to React and the backend to FastAPI, resulting in significant
+improvements in performance and scalability.
+Designed and implemented a custom messaging protocol using
+WebSockets to handle alerts and events in real-time, significantly
+improving the responsiveness and effectiveness of the CMS platform.
+RFID Inventory: Constructed a user-friendly dashboard and graphical
+visualization to present millions of data points of inventory stock status
+in simple and intuitive manner using React, FastAPI and Postgres.
+SKILLS
+AI/MLTechnologies: LangChain, LangGraph,
+Vector DB, Retrieval Augmented Generation (RAG),
+Agentic AI, Model Context Protocol (MCP), Finetuning, Vercel AI SDK, Vertex AI
+Programming Languages: JavaScript, Python,
+C++,
+Frameworks & Libraries: NextJS, ReactJS,
+NodeJS, FastAPI, OpenCV, Tesseract
+Cloud & DevOps: AWS (S3, Lambda, EC2),
+Firebase, Docker
+Databases: PostgreSQL, Firebase, Redis
+Problem Solving: Data Structures and Algorithms
+EDUCATION
+Masters of Computer Applications (06/2022 - 07/2024)
+Pursued MCA from Sinhgad Institute of Technology
+secured a CGPA of 8.2
+PERSONAL PROJECTS
+ConvoCraft (04/2024 - Present)
+Built end-to-end RAG system with agentic workflows for
+understanding users’ knowledge base. Implemented
+Model Context Protocol (MCP) for automating workflows
+with Google Drive integration. Generated of artifacts for
+code and document creation with tool calling using
+Vercel AI SDK.
+Agentic-AI-Operator
+(01/2025 - Present)
+Built browser agent system extending browser-use
+framework for AI-powered web automation. Integrated
+support for multiple LLM providers (Google, OpenAI,
+Anthropic). Developed custom browser support with
+persistent sessions and HD screen recording capabilities
+Training and Placement Cell
+(03/2022 - 06/2022)
+Connected colleges & students for recruitment events.
+Built training platform quizzes for campus drives.Improved student prep used React to design professional
+UI and FastAPI to manage the micro-services.
+ADDITIONAL INFORMATION /
+VOLUNTEERING EXPERIENCE
+Participated in Basket Ball Tournaments and
+served a volunteer in college Cultural Fest. 

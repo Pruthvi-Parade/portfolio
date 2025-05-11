@@ -189,3 +189,111 @@
 .VercelAI_SDK:hover {
   background: rgba(118, 74, 188, 0.25);
 }
+
+.MCP {
+  border: 0.1rem solid rgb(0, 122, 204);
+}
+.MCP:hover {
+  background: rgba(0, 122, 204, 0.25);
+}
+
+.RAG {
+  border: 0.1rem solid rgb(83, 166, 106);
+}
+.RAG:hover {
+  background: rgba(83, 166, 106, 0.25);
+}
+
+.PineCone {
+  border: 0.1rem solid rgb(12, 52, 75);
+}
+.PineCone:hover {
+  background: rgba(12, 52, 75, 0.25);
+}
+
+.Browser_Use {
+  border: 0.1rem solid rgb(66, 133, 244);
+}
+.Browser_Use:hover {
+  background: rgba(66, 133, 244, 0.25);
+}
+
+.Playwrite {
+  border: 0.1rem solid rgb(45, 209, 146);
+}
+.Playwrite:hover {
+  background: rgba(45, 209, 146, 0.25);
+}
+
+.Gradio {
+  border: 0.1rem solid rgb(255, 117, 26);
+}
+.Gradio:hover {
+  background: rgba(255, 117, 26, 0.25);
+}
+
+.Hugging_Face_Transformers {
+  border: 0.1rem solid rgb(255, 215, 0);
+}
+.Hugging_Face_Transformers:hover {
+  background: rgba(255, 215, 0, 0.25);
+}
+
+.SQLite {
+  border: 0.1rem solid rgb(0, 99, 220);
+}
+.SQLite:hover {
+  background: rgba(0, 99, 220, 0.25);
+}
+
+.WebSocket {
+  border: 0.1rem solid rgb(77, 77, 77);
+}
+.WebSocket:hover {
+  background: rgba(77, 77, 77, 0.25);
+}
+
+.about-section h2 {
+  margin-top: 20px; /* Adjust the value as needed */
+}
+
+.FastAPI {
+  border: 2px solid rgb(0, 255, 13, 0.25);
+}
+.FastAPI {
+  background: rgba(31, 31, 31, 0.25);
+}
+.LangChain {
+  border: 0.1rem solid rgb(0, 173, 181);
+}
+.LangChain:hover {
+  background: rgba(0, 173, 181, 0.25);
+}
+
+.Next_JS {
+  border: 0.1rem solid rgb(0, 0, 0);
+}
+.Next_JS:hover {
+  background: rgba(0, 0, 0, 0.25);
+}
+
+.Browser_Use {
+  border: 0.1rem solid rgb(66, 133, 244);
+}
+.Browser_Use:hover {
+  background: rgba(66, 133, 244, 0.25);
+}
+
+.Vercel_AI_SDK {
+  border: 0.1rem solid rgb(255, 0, 128);
+}
+.Vercel_AI_SDK:hover {
+  background: rgba(255, 0, 128, 0.25);
+}
+
+.shadcn\/ui {
+  border: 0.1rem solid rgb(113, 113, 122);
+}
+.shadcn\/ui:hover {
+  background: rgba(113, 113, 122, 0.25);
+}

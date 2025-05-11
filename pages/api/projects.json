@@ -1,33 +1,57 @@
 [
   {
     "id": 1,
-    "name": "DocXter",
-    "image": "/RFID_Dashboard.png",
-    "description": "A smart AI Documnet analyser",
-    "tags": ["NextJS","Shadcn", "AWS", "Firebase", "VercelAI_SDK", "Langchain","VertexAI"],
-    "source_code": "https://chat.docxter.app/"
+    "name": "ConvoCraft",
+    "image": "/ConvoCraft.png",
+    "description": "Built end-to-end RAG system with agentic workflows for understanding users' knowledge base. Implemented Model Context Protocol for automating workflows with Google Drive integration. Generated artifacts for code and document creation with tool calling using Vercel AI SDK.",
+    "tags": ["Next_JS","FastAPI", "MCP", "RAG", "PineCone","Firebase", "Vercel_AI_SDK", "LangChain"],
+    "source_code": "https://github.com/Pruthvi-Parade/convocraft"
   },
   {
     "id": 2,
-    "name": "Unified Logistics",
-    "image": "/Unified_Logistics.png",
-    "description": "A platform for consumer and vendor to track their shipments",
-    "tags": ["React_JS", "Node", "Mongodb", "Redux", "Stripe", "Ant-D"],
-    "source_code": "https://github.com/Pruthvi-Parade/unified-logistics"
+    "name": "Agentic-AI-Operator",
+    "image": "/Browseruse.jpg",
+    "description": "Built browser agent system extending browser-use framework for AI-powered web automation. Integrated support for multiple LLM providers (Google, OpenAI, Anthropic). Developed custom browser support with persistent sessions and HD screen recording capabilities.",
+    "tags": ["Python", "Browser Use", "Playwrite", "Gradio", "LangChain"],
+    "source_code": "https://github.com/Pruthvi-Parade/agentic-ai-operator"
   },
   {
     "id": 3,
+    "name": "Drone Security Analyst Agent",
+    "image": "/Drone_Security_Analyst_Agent.jpg",
+    "description": "Developed system for processing drone telemetry and video feeds to monitor properties, detect security events, log findings, generate alerts, and provide queryable history of observations using AI technologies and computer vision.",
+    "tags": ["Python", "Hugging_Face_Transformers","OpenCV", "LangChain", "SQLite"],
+    "source_code": "https://github.com/Pruthvi-Parade/aegis-drone-ai"
+  },
+  {
+    "id": 4,
+    "name": "Drone Survey Management System",
+    "image": "/Drone_Survey_Management_System.png",
+    "description": "Created web application for planning, managing, and monitoring drone surveys with comprehensive features including mission planning, fleet management, real-time monitoring with WebSocket integration, and detailed survey reporting.",
+    "tags": ["Next_JS", "SQLite", "WebSocket", "shadcn/ui"],
+    "source_code": "https://github.com/Pruthvi-Parade/dsms"
+  },
+  {
+    "id": 5,
     "name": "Face Vault",
     "image": "/Face_Recognition.jpg",
-    "description": "A software to manage Attendance by facial recognition",
+    "description": "Developed an automated attendance management system using facial recognition technology. Implemented real-time face detection and recognition algorithms with OpenCV, created an intuitive GUI with Tkinter, and designed a MongoDB database for secure storage of attendance records and user profiles.",
     "tags": ["Python", "OpenCV", "Tkinter", "Mongodb", "XML"],
     "source_code": "https://github.com/Pruthvi-Parade/face_vault"
   },
   {
-    "id": 4,
+    "id": 6,
+    "name": "Unified Logistics",
+    "image": "/Unified_Logistics.png",
+    "description": "Built a comprehensive logistics management platform connecting consumers and vendors for end-to-end shipment tracking. Implemented real-time tracking features with React.js frontend and Node.js backend, integrated secure payment processing with Stripe, and designed responsive UI components using Ant Design. Utilized MongoDB for scalable data storage and Redux for efficient state management across the application.",
+    "tags": ["React_JS", "Node", "Mongodb", "Redux", "Stripe", "Ant-D"],
+    "source_code": "https://github.com/Pruthvi-Parade/unified-logistics"
+  },
+  {
+    "id": 7,
     "name": "Training and Placement Cell",
     "image": "/Training_and_placement_cell.png",
-    "description": "A platform for students and teachers to manage placement and training activities",
+    "description": "Developed comprehensive platform connecting colleges and students for recruitment events with training modules and practice quizzes for campus drives. Implemented with React for professional UI and FastAPI to manage microservices.",
     "tags": ["HTML", "CSS", "Javascript", "SQL", "Php", "Apache"],
     "source_code": "https://github.com/Pruthvi-Parade/Training-Placement-cell"
   }
